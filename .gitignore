@@ -1,0 +1,5 @@
+
+*.db
+*.ipch
+.vs/dll_patcher/v16/.suo
+Release/iblis.dll
